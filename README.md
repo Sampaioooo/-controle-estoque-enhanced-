@@ -6,8 +6,6 @@ O banco de dados utilizado é o SQLite3, escolhido por ser leve e adequado para 
 ## Status do Projeto
 ## (O desenvolvimento está Finalizado.)
 
-Atualmente, o sistema possui apenas o back-end implementado.
-
 A documentação completa ainda está pendente, porém há um relatório parcial disponível.
 
 Para facilitar o download, o projeto está compactado no arquivo controle-estoque.zip, que contém tudo que é necessário para execução.
