@@ -4,7 +4,7 @@ Este projeto é um sistema de controle de estoque focado no desenvolvimento do b
 O banco de dados utilizado é o SQLite3, escolhido por ser leve e adequado para sistemas locais.
 
 ## Status do Projeto
-## (O desenvolvimento está em andamento.)
+## (O desenvolvimento está Finalizado.)
 
 Atualmente, o sistema possui apenas o back-end implementado.
 
